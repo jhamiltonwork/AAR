@@ -1,0 +1,53 @@
+name,email,role,Title,Department,Office Location,City,State,Country
+michael bigby,mbigby@researchnow.com,Executive,Chief Technology Officer,[480] - Corp Svcs-Tech Leadership,Dallas,Dallas,TX,United States
+muhammad ali,noman.ali@peanutlabs.com,Executive,CEO - Peanut Labs,[022] - Peanut Labs-G&A E&A,San Francisco,San Francisco,CA,United States
+amy lee,amy.tan@peanutlabs.com,Finance,Junior Accountant,[082] - Peanut Labs-G&A Finance,San Francisco,San Francisco,CA,United States
+doan le,emily.le@peanutlabs.com,Finance,Finance Administrator,[082] - Peanut Labs-G&A Finance,San Francisco,Berkeley,CA,United States
+erin davidson,erin.davidson@peanutlabs.com,Finance,Accounting and HR Manager,[082] - Peanut Labs-G&A Finance,San Francisco,San Francisco,CA,United States
+gavin johnson,gjohnston@researchnow.com,Finance,Accounts Payable Assistant,[020] - Shared Svcs-G&A Finance,London,London,London,UK
+monicka van lare,mdavey@researchnow.com,Finance,EMEA Tax and Reporting Manager,[020] - Shared Svcs-G&A Finance,London,London,London,UK
+anne-marie charlton,aupton@researchnow.com,HR,L&D Business Partner ,[041] - Corp Svcs-G&A HR Training,London,London,London,UK
+claudia marisa henriques oliveira,moliveria@researchnow.com,HR,Payroll & Benefits Advisor,[040] - Shared Svcs-G&A HR Svcs,London,London,London,UK
+seda balci,seda.balci@peanutlabs.com,Marketing,Marketing Manager,[108] - Peanut Labs-Mktg Svcs,San Francisco,San Francisco,CA,United States
+alexander dempsey,alex.dempsey@peanutlabs.com,Operations,"VP, Business Intelligence & Sales Support",[207] - Peanut Labs-Ops PM,San Francisco,San Francisco,CA,United States
+frances pettit,annie@peanutlabs.com,Operations,Vice President,[207] - Peanut Labs-Ops PM,Toronto,Toronto,ON,CAN
+darren wallond,dwallond@researchnow.com,Operations,"VP, Client Services, EMEA",[291] - CR Support-Ops Analysis & Strat,London,London,London,UK
+emma ely,eshaw@researchnow.com,Operations,"Operations Manager, Melbourne",[266] - CR Support-Ops PM Team Australia,Melbourne,Melbourne,VIC,Australia
+laurence chen,lchen@researchnow.com,Operations,Survey Programmer,[203] - Shared Svcs-Ops Pgm,Toronto,Markham,ON,CAN
+cynthia garrett,lgarrett@researchnow.com,Operations,Sr. Data Processing Specialist,[271] - CR Support-Ops DP,Dallas,Cedar Hill,TX,United States
+maira bittar,mdasilva@researchnow.com,Operations,Project Manager,[259] - MRA-Ops PM AM Central,Dallas,Plano,TX,United States
+monika strzeciwilk,mkutek@researchnow.com,Operations,Senior Project Manager,[201] - CR Support-Ops PM Northern EMEA,London,London,London,UK
+neha sethi,nbhasin@researchnow.com,Operations,Project Manager,[266] - CR Support-Ops PM Team Australia,Sydney,Sydney,NSW,Australia
+remonda youssef,rshehata@researchnow.com,Operations,Project Manager,[259] - MRA-Ops PM AM Central,Florida,Apopka,FL,United States
+sebastian-cosmin tarta,starta@researchnow.com,Operations,Project Manager,[293] - Corporate-Ops PM,London,London,London,UK
+antonia mpozini,tbozini@researchnow.com,Operations,Project Executive,[200] - Shared Svcs-Ops PM,Athens,Athens,Athens,Greece
+aaron james,aaron.james@peanutlabs.com,Sales,Project Manager,[343] - Peanut Labs-Sales Svcs,San Francisco,Berkeley,CA,United States
+alissa campbell,ameeks@researchnow.com,Sales,Account Manager,[342] - Strategic-Sales Strategic,Dallas,Dallas,TX,United States
+carine cirer,ccirer@researchnow.com,Sales,Account Manager,[345] - Shared Svcs-Sales Support AM East,Toronto,Toronto,ON,CAN
+davis kurzenski,davis.kurzenski@peanutlabs.com,Sales,Business Development Manager,[076] - Corp Svcs-G&A Panel Partner Development,San Francisco,San Francisco,CA,United States
+joseph vincenty,joey.vincenty@peanutlabs.com,Sales,Account Executive,[343] - Peanut Labs-Sales Svcs,San Francisco,San Francisco,CA,United States
+johnathan george,johnathan.george@peanutlabs.com,Sales,Project Manager,[343] - Peanut Labs-Sales Svcs,San Francisco,Pleasanton,CA,United States
+jonathan cheriff,jonathan.cheriff@peanutlabs.com,Sales,"Sr. Director, Sales and Marketing",[343] - Peanut Labs-Sales Svcs,San Francisco,Santa Rosa,CA,United States
+jennifer dawson,jschultz@researchnow.com,Sales,"Team Lead, Account Management",[346] - Shared Svcs-Sales Support AM West,Dallas,Carrollton,TX,United States
+kyle morrisey,kyle.morrisey@peanutlabs.com,Sales,Account Manager,[343] - Peanut Labs-Sales Svcs,San Francisco,San Carlos,CA,United States
+larissa ngo ndengue,lndengue@researchnow.com,Sales,Sales Support,[341] - Shared Svcs-Sales Operations,Dallas,Dallas,TX,United States
+nicholas speaker,nick.speaker@peanutlabs.com,Sales,Project Manager,[343] - Peanut Labs-Sales Svcs,New York City,Long Beach,NY,United States
+nadia sobral,nmaldonado@researchnow.com,Sales,Sr. Sales Support,[341] - Shared Svcs-Sales Operations,Dallas,Frisco,TX,United States
+travis anderson,travis.anderson@peanutlabs.com,Sales,Lead Business Development Manager,[076] - Corp Svcs-G&A Panel Partner Development,San Francisco,San Francisco,CA,United States
+wing morgan,wzheng@researchnow.com,Sales,Client Development Manager ,[366] - CR Support-Sales Team APAC,Auckland,Auckland,,New Zealand
+allison filice,allison.filice@peanutlabs.com,Technology,Lead Designer,[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+andy contreras,andy.contreras@peanutlabs.com,Technology,User Experience Designer,[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+anthony lam,anthony.lam@peanutlabs.com,Technology,Product Manager,[407] - Peanut Labs-Tech Ops,San Francisco,Los Altos,CA,United States
+andrew rubalcaba,arubalcaba@researchnow.com,Technology,Sr. Software Engineer,[450] - Corp Svcs-NOVA,Dallas,Plano,TX,United States
+bishal gupta,bishal.gupta@peanutlabs.com,Technology,Sr. Product Manager,[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+christopher garricks,cgarricks@researchnow.com,Technology,Systems Support Specialist,[400] - Corp Svcs-IT Infrastructure,London,London,London,UK
+guy medawar,gmedawar@researchnow.com,Technology,Senior Support Specialist,[400] - Corp Svcs-IT Infrastructure,London,London,London,UK
+manikanta talanki,manikanta.talanki@peanutlabs.com,Technology,Creative Software Engineer,[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+michael schueler,michael.schueler@peanutlabs.com,Technology,Manager Infrastructure & Operations,[407] - Peanut Labs-Tech Ops,San Francisco,Mountain View,CA,United States
+muhammad alvi,moheeth.alvi@peanutlabs.com,Technology,Product Manager,[407] - Peanut Labs-Tech Ops,San Francisco,Santa Clara,CA,United States
+oleg frayman,ofrayman@researchnow.com,Technology,"VP, IT Operations",[400] - Corp Svcs-IT Infrastructure,Dallas,Lewisville,TX,United States
+saadullah saeed,saadullah.saeed@peanutlabs.com,Technology,"VP, Engineering",[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+timothy judkins,tim.judkins@peanutlabs.com,Technology,Software Engineer,[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+yueyang jiang,yueyang.jiang@peanutlabs.com,Technology,Creative Software Engineer,[407] - Peanut Labs-Tech Ops,San Francisco,San Francisco,CA,United States
+yaniv zaidner,yzaidner@researchnow.com,Technology,Sr. Infrastructure Engineer,[400] - Corp Svcs-IT Infrastructure,London,London,London,UK
+ziyad parekh,ziyad.parekh@peanutlabs.com,Technology,Creative Software Engineer,[407] - Peanut Labs-Tech Ops,San Francisco,Santa Clara,CA,United States
